@@ -4,4 +4,6 @@
 # How_to_use
 [EXCHANGE-RATES.ORG](https://ko.exchange-rates.org)에서 환율정보를 가져옵니다.
 
-**원 (WON)**을 입력하면 **KRW	USD	EUR	JPY	GBP	AUD	HKD	CAD** 순서로 환율을 계산해줍니다.
+**원 (WON)** 을 입력하면 **KRW	USD	EUR	JPY	GBP	AUD	HKD	CAD** 순서로 환율을 계산해줍니다.
+
+환율에 변동이 있을 경우 변동 퍼센트를 알려줍니다.
